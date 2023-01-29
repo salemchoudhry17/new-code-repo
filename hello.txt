@@ -1,0 +1,6 @@
+##### This is my file ###########
+
+useradd s.choudhry
+useradd m.bilal
+
+echo "this is my script" 
